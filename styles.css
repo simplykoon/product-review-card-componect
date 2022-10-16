@@ -13,6 +13,7 @@ body {
 .container {
     display: flex;
     line-height: 20px;
+    width: 100%;
 }
 .text-box {
     background-color: hsl(0, 0%, 100%);
